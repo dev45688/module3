@@ -1,6 +1,5 @@
-# module 3:
 
-#task1:
+# task1:
 In this, code will take integer input from the user and then using if statement i have set the condition if user input is fully divisible by 2 and their remainder becames zero then it is even number but this condition is not true then i used else statement in this they print the odd number.
 
 # task2:
